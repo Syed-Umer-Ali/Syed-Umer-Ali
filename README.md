@@ -3,10 +3,10 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Umer%20Ali&fontSize=46&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Certified%20Agentic%20AI%20Developer&descAlignY=55&descSize=20" width="100%"/>
 </div>
 
-<!-- Animated Typing -->
+<!-- Animated Typing — emojis removed from URL so GitHub renders it properly -->
 <div align="center">
 <a href="https://github.com/Syed-Umer-Ali">
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&pause=1200&color=00D9FF&center=true&vCenter=true&width=780&height=45&lines=🤖+Building+Autonomous+Agents+that+work+while+you+sleep...;⚡+Replacing+workflows+with+Digital+FTEs+powered+by+AI;🧠+MCP+%7C+Claude+API+%7C+Multi-Agent+Systems;🚀+From+Karachi+—+shipping+AI+that+actually+works" alt="Typing SVG"/>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&pause=1200&color=00D9FF&center=true&vCenter=true&width=780&height=45&lines=Building+Autonomous+Agents+that+work+while+you+sleep...;Replacing+workflows+with+Digital+FTEs+powered+by+AI;MCP+%7C+Claude+API+%7C+Multi-Agent+Systems;From+Karachi+%E2%80%94+shipping+AI+that+actually+works" alt="Typing SVG"/>
 </a>
 </div>
 
@@ -14,7 +14,7 @@
 
 <div align="center">
 
-![Profile Views](https://komarev.com/ghpvc/?username=Syed-Umer-Ali&color=00d9ff&style=flat-square&label=👁+Profile+Views)
+![Profile Views](https://komarev.com/ghpvc/?username=Syed-Umer-Ali&color=00d9ff&style=flat-square&label=Profile+Views)
 &nbsp;
 [![GitHub followers](https://img.shields.io/github/followers/Syed-Umer-Ali?label=Followers&style=flat-square&color=00d9ff&labelColor=0d1117)](https://github.com/Syed-Umer-Ali?tab=followers)
 &nbsp;
@@ -87,6 +87,15 @@ contact     : syedumerali45@gmail.com
 
 </div>
 
+---
+
+## 🏆 GitHub Trophies
+
+<div align="center">
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=Syed-Umer-Ali&theme=tokyonight&no-frame=true&no-bg=true&margin-w=6&column=7)](https://github.com/ryo-ma/github-profile-trophy)
+
+</div>
 
 ---
 
