@@ -1,154 +1,110 @@
-<!-- Header Capsule Wave -->
-<div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:062A78,100:1E90FF&height=180&section=header&text=Umer%20Ali&fontSize=46&fontColor=ffffff&animation=twinkling&fontAlignY=32&desc=Certified%20Agentic%20AI%20Developer&descAlignY=55&descSize=20" width="100%"/>
-</div>
-
-<!-- Animated Typing -->
-<div align="center">
-<a href="https://github.com/Syed-Umer-Ali">
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&pause=1200&color=22D3EE&center=true&vCenter=true&width=780&height=45&lines=Building+Autonomous+Agents+that+work+while+you+sleep...;Replacing+workflows+with+Digital+FTEs+powered+by+AI;MCP+%7C+Claude+API+%7C+Multi-Agent+Systems;From+Karachi+%E2%80%94+shipping+AI+that+actually+works" alt="Typing SVG"/>
-</a>
-</div>
-
-<br/>
-
 <div align="center">
 
-![Profile Views](https://komarev.com/ghpvc/?username=Syed-Umer-Ali&color=8b5cf6&style=flat-square&label=Profile+Views)
-&nbsp;
-[![GitHub followers](https://img.shields.io/github/followers/Syed-Umer-Ali?label=Followers&style=flat-square&color=22d3ee&labelColor=0B2545)](https://github.com/Syed-Umer-Ali?tab=followers)
-&nbsp;
-![Stars](https://img.shields.io/github/stars/Syed-Umer-Ali?affiliations=OWNER&style=flat-square&color=8b5cf6&labelColor=0B2545&label=Stars)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/dark.svg">
+  <img alt="Syed Umer Ali - Terminal Profile" src="assets/light.svg" width="480">
+</picture>
+
+<br>
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=1E90FF&center=true&vCenter=true&width=600&lines=Agentic+AI+Developer;Full-Stack+Engineer;Building+Multi-Agent+Pipelines;MCP+Certified" alt="Typing SVG" />
 
 </div>
 
----
+<br>
 
-<!-- whoami terminal card -->
-<img align="right" width="370" src="https://raw.githubusercontent.com/Syed-Umer-Ali/github-stats/generated/overview.svg#gh-dark-mode-only" />
-
+```bash
+umer@karachi:~$ whoami
 ```
 
-  ┌─[ umer@karachi ]─[ ~/agentic-ai ]
-  └──╼ $ whoami --verbose
+**Syed Umer Ali** — Agentic AI Developer & Full-Stack Engineer based in Karachi, Pakistan.
+I build autonomous AI agents, multi-agent pipelines, and automation systems using the OpenAI Agents SDK, FastMCP, Google ADK, n8n, and RAG pipelines.
 
-  ▸ name        :: Umer Ali
-  ▸ location    :: Karachi, Pakistan 🇵🇰
-  ▸ role        :: Certified Agentic AI Developer
-  ▸ focus       :: Autonomous AI Agents & Digital FTEs
-  ▸ stack       :: OpenAI Agents SDK · Google ADK · MCP Server SDK
-  ▸ superpower  :: Making AI agents replace entire teams
-  ▸ status      :: ● shipping AI automation at scale
-  ▸ open_to     :: Collabs on agentic AI projects
-  ▸ contact     :: syedumerali45@gmail.com
+Certified through **PIAIC · GIAIC · MCP · SMIT**
 
-  └──╼ $ _
+```bash
+umer@karachi:~$ cat stack.json
 ```
 
-<br clear="right"/>
-
----
-
-## 🧠 Agentic AI Arsenal
-
 <div align="center">
 
-| Layer | Tools |
-|:---:|:---|
-| 🤖 **Agent Frameworks** | Claude ADK · OpenAI Agents SDK · Google ADK · MCP SDK |
-| ⚙️ **Automation** | n8n · MCP Servers · Make.com |
-| 🧬 **Techniques** | Multi-Agent Orchestration · RAG · Tool Use · Memory · Evals |
-| 🗣️ **Prompt Engineering** | Spec-Driven Dev · Chain-of-Thought · ReAct · Reflection |
+![Python](https://img.shields.io/badge/Python-1E90FF?style=for-the-badge&logo=python&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-1E90FF?style=for-the-badge&logo=typescript&logoColor=white)
+![OpenAI Agents SDK](https://img.shields.io/badge/OpenAI_Agents_SDK-0D1117?style=for-the-badge&logo=openai&logoColor=1E90FF)
+![FastMCP](https://img.shields.io/badge/FastMCP-0D1117?style=for-the-badge&logo=fastapi&logoColor=1E90FF)
+![n8n](https://img.shields.io/badge/n8n-1E90FF?style=for-the-badge&logo=n8n&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-0D1117?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![React](https://img.shields.io/badge/React-1E90FF?style=for-the-badge&logo=react&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-1E90FF?style=for-the-badge&logo=docker&logoColor=white)
 
 </div>
 
----
-
-## 🛠️ Full Tech Stack
-
-<div align="center">
-
-**Frontend**
-
-![React](https://img.shields.io/badge/React-0B2545?style=for-the-badge&logo=react&logoColor=22D3EE)
-![Next.js](https://img.shields.io/badge/Next.js-0B2545?style=for-the-badge&logo=nextdotjs&logoColor=ffffff)
-![TypeScript](https://img.shields.io/badge/TypeScript-0B2545?style=for-the-badge&logo=typescript&logoColor=8B5CF6)
-![TailwindCSS](https://img.shields.io/badge/Tailwind-0B2545?style=for-the-badge&logo=tailwindcss&logoColor=22D3EE)
-
-**Backend & DB**
-
-![Node.js](https://img.shields.io/badge/Node.js-0B2545?style=for-the-badge&logo=nodedotjs&logoColor=22D3EE)
-![Python](https://img.shields.io/badge/Python-0B2545?style=for-the-badge&logo=python&logoColor=8B5CF6)
-![FastAPI](https://img.shields.io/badge/FastAPI-0B2545?style=for-the-badge&logo=fastapi&logoColor=22D3EE)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-0B2545?style=for-the-badge&logo=postgresql&logoColor=8B5CF6)
-
-**DevOps & Cloud**
-
-![Docker](https://img.shields.io/badge/Docker-0B2545?style=for-the-badge&logo=docker&logoColor=22D3EE)
-![AWS](https://img.shields.io/badge/AWS-0B2545?style=for-the-badge&logo=amazonaws&logoColor=ffffff)
-![Vercel](https://img.shields.io/badge/Vercel-0B2545?style=for-the-badge&logo=vercel&logoColor=ffffff)
-![Git](https://img.shields.io/badge/Git-0B2545?style=for-the-badge&logo=git&logoColor=8B5CF6)
-
-</div>
-
----
-
-## 🏆 Achievements
+```bash
+umer@karachi:~$ ls projects/
+```
 
 <div align="center">
 
-![PIAIC Certified](https://img.shields.io/badge/PIAIC-Certified-13315C?style=for-the-badge&logo=letsencrypt&logoColor=22D3EE)
-![GIAIC Certified](https://img.shields.io/badge/GIAIC-Certified-13315C?style=for-the-badge&logo=letsencrypt&logoColor=8B5CF6)
-![MCP Certified](https://img.shields.io/badge/MCP-Certified-13315C?style=for-the-badge&logo=letsencrypt&logoColor=22D3EE)
-![SMIT Certified](https://img.shields.io/badge/SMIT-Certified-13315C?style=for-the-badge&logo=letsencrypt&logoColor=8B5CF6)
+<table>
+<tr>
+<td width="50%">
 
-![Open Source](https://img.shields.io/badge/Open%20Source-Contributor-13315C?style=for-the-badge&logo=github&logoColor=22D3EE)
-![Projects](https://img.shields.io/badge/Shipped-7%2B%20Projects-13315C?style=for-the-badge&logo=vercel&logoColor=8B5CF6)
-![Freelance](https://img.shields.io/badge/Freelance-Open%20for%20Work-13315C?style=for-the-badge&logo=upwork&logoColor=22D3EE)
+### 🤖 OmniTask Bot
+Multi-agent automation system built with the OpenAI Agents SDK and FastMCP.
+
+**[→ Live Demo](https://omni-task-bot.vercel.app)**
+
+</td>
+<td width="50%">
+
+### 👟 Stride
+3D animated shoe store with immersive scroll interactions and parallax depth.
+
+**[→ Live Demo](https://stride-shoe-store.vercel.app)**
+
+</td>
+</tr>
+</table>
 
 </div>
 
----
-
-## 📊 GitHub Stats
+```bash
+umer@karachi:~$ ./show_stats.sh
+```
 
 <div align="center">
 
-<img height="200" src="https://raw.githubusercontent.com/Syed-Umer-Ali/github-stats/generated/languages.svg#gh-dark-mode-only"/>
-&nbsp;
-<img height="200" src="https://raw.githubusercontent.com/Syed-Umer-Ali/github-stats/generated/overview.svg#gh-dark-mode-only"/>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=Syed-Umer-Ali&show_icons=true&theme=dark&hide_border=true&bg_color=0D1117&title_color=1E90FF&icon_color=1E90FF&text_color=c9d1d9">
+  <img src="https://github-readme-stats.vercel.app/api?username=Syed-Umer-Ali&show_icons=true&theme=default&hide_border=true&title_color=1E90FF&icon_color=1E90FF">
+</picture>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=Syed-Umer-Ali&theme=dark&hide_border=true&background=0D1117&ring=1E90FF&fire=1E90FF&currStreakLabel=1E90FF">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Syed-Umer-Ali&hide_border=true&ring=1E90FF&fire=1E90FF">
+</picture>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Syed-Umer-Ali&layout=compact&theme=dark&hide_border=true&bg_color=0D1117&title_color=1E90FF&text_color=c9d1d9">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Syed-Umer-Ali&layout=compact&hide_border=true&title_color=1E90FF">
+</picture>
 
 </div>
 
----
-
-## 📈 Contribution Graph
-
-[![Umer's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Syed-Umer-Ali&bg_color=0B2545&color=8b5cf6&line=22d3ee&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
----
-
-## 🌍 Let's Connect
+```bash
+umer@karachi:~$ cat connect.txt
+```
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0B2545?style=for-the-badge&logo=linkedin&logoColor=22D3EE)](https://www.linkedin.com/in/umer-ali-0924482b7/)
-[![Portfolio](https://img.shields.io/badge/Portfolio-0B2545?style=for-the-badge&logo=vercel&logoColor=8B5CF6)](https://umerali-portfolio-website.vercel.app/)
-[![Twitter/X](https://img.shields.io/badge/@Umer__ali__021-0B2545?style=for-the-badge&logo=x&logoColor=ffffff)](https://twitter.com/Umer_ali_021)
-[![Email](https://img.shields.io/badge/Gmail-0B2545?style=for-the-badge&logo=gmail&logoColor=22D3EE)](mailto:syedumerali45@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-0B2545?style=for-the-badge&logo=github&logoColor=ffffff)](https://github.com/Syed-Umer-Ali)
+[![Portfolio](https://img.shields.io/badge/Portfolio-0D1117?style=for-the-badge&logo=vercel&logoColor=1E90FF)](https://umerali-portfolio-website.vercel.app/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-1E90FF?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/syed-umer-ali)
+[![Upwork](https://img.shields.io/badge/Upwork-1E90FF?style=for-the-badge&logo=upwork&logoColor=white)](https://www.upwork.com/)
 
 </div>
-
----
 
 <div align="center">
 
-> **"I don't automate tasks. I deploy agents that think, decide, and execute — autonomously."**
->
-> *— Umer Ali*
+`Digital FTEs` · `Multi-Agent Pipelines` · `Autonomous AI Systems` · `MCP Certified`
 
 </div>
-
-<!-- Footer Wave -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1E90FF,100:062A78&height=100&section=footer" width="100%"/>
