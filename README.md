@@ -243,8 +243,7 @@ Personal site — same cyberpunk theme
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Syed-Umer-Ali&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=00B4D8&icon_color=0096C7&text_color=C9D1D9&ring_color=00B4D8" width="49%"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Syed-Umer-Ali&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=00B4D8&text_color=C9D1D9" width="38%"/>
+<img src="https://raw.githubusercontent.com/Syed-Umer-Ali/Syed-Umer-Ali/main/github-metrics.svg" width="50%"/>
 
 </div>
 
@@ -253,7 +252,6 @@ Personal site — same cyberpunk theme
 ---
 
 <br/>
-
 <div align="center">
 
 ```
