@@ -66,13 +66,13 @@ I specialize in **OpenAI Agents SDK**, **Claude ADK**, **Google ADK**, and **Fas
 <tr>
 <td align="center"><strong>Google ADK Docs</strong></td>
 <td align="center">Fixed NameErrors, missing imports & type annotations</td>
-<td align="center">✅ 4 PRs Merged</td>
+<td align="center">✅ 5 PRs Merged</td>
 </tr>
 
 <tr>
 <td align="center"><strong>OpenAI Agents Python</strong></td>
 <td align="center">Fixed missing imports in Dynamic Instructions example</td>
-<td align="center">✅ 1 PR Merged</td>
+<td align="center">✅ 2 PR Merged</td>
 </tr>
 J
 <td align="center"><strong>n8n</strong></td>
