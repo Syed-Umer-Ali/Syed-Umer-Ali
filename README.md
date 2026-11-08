@@ -2,10 +2,10 @@
 
 # <span style="color:#00B4D8">Hey 👋 I'm Umer Ali</span>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=32&duration=1500&pause=1500&color=00B4D8&center=true&vCenter=true&repeat=true&width=500&height=80&lines=Agentic+AI+Developer;Full+Stack+Developer;AI+Automation+Expert" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=32&duration=1500&pause=1500&color=00B4D8&center=true&vCenter=true&repeat=true&width=600&height=80&lines=AI+Data+Engineer;Full-Stack+Developer;Multi-Agent+Pipelines+%26+MCP" alt="Typing SVG" />
 
 <p align="center">
-<a href="https://www.linkedin.com/in/umer-ali-ai-developer/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="https://www.linkedin.com/in/umer-ali-0924482b7/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 <a href="https://www.upwork.com/freelancers/~01221bff3a51dd6c42?mp_source=share"><img src="https://img.shields.io/badge/Upwork-14A800?style=for-the-badge&logo=upwork&logoColor=white" /></a>
 <a href="https://github.com/Syed-Umer-Ali"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
 <a href="https://x.com/Umer_ali_021"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" /></a>
@@ -25,13 +25,13 @@
 
 <div align="center">
 
-I'm a **Certified Agentic AI Developer** and **Automation Engineer** based in Pakistan.
+I'm an **AI Data Engineer** and **Full-Stack Developer** based in Karachi, Pakistan.
 
-I build **autonomous AI agents**, **MCP servers**, and **RAG systems** that solve real business problems.
+I build **multi-agent pipelines**, **MCP servers**, and **RAG systems** that solve real business problems. I'm also training as a **Cloud Data Engineer** (SQL, AWS) at Saylani, because an agent is only as good as the data under it.
 
-I specialize in **OpenAI Agents SDK**, **Claude ADK**, **Google ADK**, and **FastMCP** — turning complex AI concepts into working products.
+I work with **OpenAI Agents SDK**, **Google ADK**, **FastMCP**, and **n8n**, and I have merged PRs in Google ADK, OpenAI Agents SDK, and n8n.
 
-**Available for freelance** — Let's build something intelligent together.
+**Available for freelance and remote roles.** Let's build something intelligent together.
 
 </div>
 
@@ -39,10 +39,26 @@ I specialize in **OpenAI Agents SDK**, **Claude ADK**, **Google ADK**, and **Fas
 
 <div align="center">
 
-![Role](https://img.shields.io/badge/Agentic_AI_Developer-00B4D8?style=for-the-badge)
-![Focus](https://img.shields.io/badge/Automation_Engineer-0096C7?style=for-the-badge)
+
+
+![Role](https://img.shields.io/badge/AI_Data_Engineer-00B4D8?style=for-the-badge)
+
+
+
+
+![Focus](https://img.shields.io/badge/Full--Stack_Developer-0096C7?style=for-the-badge)
+
+
+
+
 ![Location](https://img.shields.io/badge/Pakistan-023E8A?style=for-the-badge)
+
+
+
+
 ![Status](https://img.shields.io/badge/Open_for_Work-00B4D8?style=for-the-badge)
+
+
 
 </div>
 
@@ -74,7 +90,8 @@ I specialize in **OpenAI Agents SDK**, **Claude ADK**, **Google ADK**, and **Fas
 <td align="center">Fixed missing imports in Dynamic Instructions example</td>
 <td align="center">✅ 2 PR Merged</td>
 </tr>
-J
+
+<tr>
 <td align="center"><strong>n8n</strong></td>
 <td align="center">Designed fix for orphaned ToolMessage bug</td>
 <td align="center">✅ 1 PR Merged</td>
@@ -199,7 +216,11 @@ J
 **🧠 RAG Embedded Physical AI Book**
 Intelligent textbook with RAG-powered context-aware Q&A
 `Next.js` `Python` `RAG` `Vector DB`
-[![Live](https://img.shields.io/badge/LIVE-00B4D8?style=for-the-badge)](https://physical-ai-book-black.vercel.app/)
+[
+
+![Live](https://img.shields.io/badge/LIVE-00B4D8?style=for-the-badge)
+
+](https://physical-ai-book-black.vercel.app/)
 
 </td>
 <td width="50%">
@@ -207,7 +228,11 @@ Intelligent textbook with RAG-powered context-aware Q&A
 **✅ Autonomous Todo Chatbot**
 AI agent for natural language task management via MCP
 `OpenAI SDK` `FastMCP` `FastAPI` `PostgreSQL`
-[![Live](https://img.shields.io/badge/LIVE-0096C7?style=for-the-badge)](https://omni-task-bot.vercel.app/)
+[
+
+![Live](https://img.shields.io/badge/LIVE-0096C7?style=for-the-badge)
+
+](https://omni-task-bot.vercel.app/)
 
 </td>
 </tr>
@@ -217,7 +242,11 @@ AI agent for natural language task management via MCP
 **👟 Stride — 3D Shoe Store**
 Premium e-commerce with cinematic 3D scroll animations
 `React` `Framer Motion` `Tailwind CSS`
-[![Live](https://img.shields.io/badge/LIVE-0077B6?style=for-the-badge)](https://stride-shoe-store.vercel.app/)
+[
+
+![Live](https://img.shields.io/badge/LIVE-0077B6?style=for-the-badge)
+
+](https://stride-shoe-store.vercel.app/)
 
 </td>
 <td width="50%">
@@ -225,7 +254,11 @@ Premium e-commerce with cinematic 3D scroll animations
 **🌐 Portfolio**
 Personal site — same cyberpunk theme
 `Next.js` `Framer Motion` `Tailwind CSS`
-[![Live](https://img.shields.io/badge/LIVE-00B4D8?style=for-the-badge)](https://umerali-portfolio-website.vercel.app)
+[
+
+![Live](https://img.shields.io/badge/LIVE-00B4D8?style=for-the-badge)
+
+](https://umerali-portfolio-website.vercel.app)
 
 </td>
 </tr>
@@ -253,15 +286,3 @@ Personal site — same cyberpunk theme
 
 <br/>
 <div align="center">
-
-```
-  "Building intelligent systems — one agent at a time."
-  
-  Let's connect and build something amazing together.
-```
-
-[![Portfolio](https://img.shields.io/badge/umerali.dev-0D1117?style=for-the-badge&logo=vercel&logoColor=00B4D8)](https://umerali-portfolio-website.vercel.app)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=00B4D8)](https://www.linkedin.com/in/umer-ali-0924482b7/)
-[![Email](https://img.shields.io/badge/syedumerali45@gmail.com-0D1117?style=for-the-badge&logo=gmail&logoColor=00B4D8)](mailto:syedumerali45@gmail.com)
-
-</div>
